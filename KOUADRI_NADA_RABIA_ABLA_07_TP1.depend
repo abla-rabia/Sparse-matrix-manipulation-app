@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1650733487 source:c:\users\hp\desktop\université\1cp\s2\alsdd\kouadri_nada_rabia_abla_07_tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Affichage_et_Menu.h"
+	<time.h>
+	<windows.h>
+	"REPRESENTATION01.h"
+
+1650733563 source:c:\users\hp\desktop\université\1cp\s2\alsdd\kouadri_nada_rabia_abla_07_tp1\affichage_et_menu.c
+	"Affichage_et_Menu.h"
+	<windows.h>
+
+1650694499 c:\users\hp\desktop\université\1cp\s2\alsdd\kouadri_nada_rabia_abla_07_tp1\affichage_et_menu.h
+
+1650733523 source:c:\users\hp\desktop\université\1cp\s2\alsdd\kouadri_nada_rabia_abla_07_tp1\representation01.c
+	"REPRESENTATION01.h"
+	<stdio.h>
+	<stdbool.h>
+
+1650733509 c:\users\hp\desktop\université\1cp\s2\alsdd\kouadri_nada_rabia_abla_07_tp1\representation01.h
+	<stdbool.h>
+
